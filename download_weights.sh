@@ -15,7 +15,7 @@ hf download microsoft/OmniParser-v2.0 icon_detect/train_args.yaml --local-dir we
 echo
 echo "Baixando modelo Florence..."
 hf download microsoft/OmniParser-v2.0 \
-  --include "icon_caption_florence/*" \
+  --include "icon_caption/*" \
   --local-dir weights
 
 echo

@@ -41,7 +41,7 @@ Ensure you have the V2 weights downloaded in weights folder (ensure caption weig
 ```
 
 <!-- ## [deprecated]
-Then download the model ckpts files in: https://huggingface.co/microsoft/OmniParser, and put them under weights/, default folder structure is: weights/icon_detect, weights/icon_caption_florence, weights/icon_caption_blip2. 
+Then download the model ckpts files in: https://huggingface.co/microsoft/OmniParser, and put them under weights/, default folder structure is: weights/icon_detect, weights/icon_caption, weights/icon_caption_blip2. 
 
 For v1: 
 convert the safetensor to .pt file. 
